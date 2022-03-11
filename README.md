@@ -4,15 +4,15 @@
 ## Features
 Easy and Fast Messaging between Users 
 #
-Included:
-User Databases
-User Login & Sign up
-User Details
-Finding Users easily
+Included: <br/>
+User Databases <br/>
+User Login & Sign up <br/>
+User Details <br/>
+Finding Users easily <br/>
 ## Tools Used
-Firebase Database
-Firebase Authentication
-Android Studio IDE
+Firebase Database <br/>
+Firebase Authentication <br/>
+Android Studio IDE <br/>
 
 ## How to install?
 You can install this application by downloading the APK file in the repository and install it in your android Device.
