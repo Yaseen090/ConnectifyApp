@@ -19,7 +19,7 @@ You can install this application by downloading the APK file in the repository a
 
 
 Preview:
-![Screenshot](ConnectifyAPp1.png) 
+![Screenshot](ConnectifyApp1.PNG) 
 
 Database Snapshot
 Follow this link: https://github.com/imShakil/BloodBank/wiki/Database-Snapshots (This project can be used for any educational purpose and can be changed or modified in need.
