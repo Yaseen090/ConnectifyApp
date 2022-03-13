@@ -18,12 +18,12 @@ You can install this application by downloading the APK file in the repository a
 
 
 ## Preview:
-<a><img src="https://github.com/Yaseen090/NYA_App/blob/main/NYA_Preparation_Quiz_App1.PNG" width="210" height="400"></a>
-![Screenshot](ConnectifyApp2.PNG) 
-![Screenshot](ConnectifyApp3.PNG) 
-![Screenshot](ConnectifyApp4.PNG) 
-![Screenshot](ConnectifyApp5.PNG) 
-![Screenshot](ConnectifyApp6.PNG) 
-![Screenshot](ConnectifyApp7.PNG) 
+<a><img src="https://github.com/Yaseen090/ConnectifyApp/blob/main/ConnectifyApp1.PNG"></a>
+<a><img src="https://github.com/Yaseen090/ConnectifyApp/blob/main/ConnectifyApp2.PNG"></a>
+<a><img src="https://github.com/Yaseen090/ConnectifyApp/blob/main/ConnectifyApp3.PNG"></a>
+<a><img src="https://github.com/Yaseen090/ConnectifyApp/blob/main/ConnectifyApp4.PNG"></a>
+<a><img src="https://github.com/Yaseen090/ConnectifyApp/blob/main/ConnectifyApp5.PNG"></a>
+<a><img src="https://github.com/Yaseen090/ConnectifyApp/blob/main/ConnectifyApp6.PNG"></a>
+<a><img src="https://github.com/Yaseen090/ConnectifyApp/blob/main/ConnectifyApp7.PNG"></a>
 
 Thanks
