@@ -18,12 +18,12 @@ You can install this application by downloading the APK file in the repository a
 
 
 ## Preview:
-<a><img src="https://github.com/Yaseen090/ConnectifyApp/blob/main/ConnectifyApp1.PNG"></a>
-<a><img src="https://github.com/Yaseen090/ConnectifyApp/blob/main/ConnectifyApp2.PNG"></a>
-<a><img src="https://github.com/Yaseen090/ConnectifyApp/blob/main/ConnectifyApp3.PNG"></a>
-<a><img src="https://github.com/Yaseen090/ConnectifyApp/blob/main/ConnectifyApp4.PNG"></a>
-<a><img src="https://github.com/Yaseen090/ConnectifyApp/blob/main/ConnectifyApp5.PNG"></a>
-<a><img src="https://github.com/Yaseen090/ConnectifyApp/blob/main/ConnectifyApp6.PNG"></a>
-<a><img src="https://github.com/Yaseen090/ConnectifyApp/blob/main/ConnectifyApp7.PNG"></a>
+<a><img src="https://github.com/Yaseen090/ConnectifyApp/blob/main/ConnectifyApp1.PNG" width="210" height="400">></a>
+<a><img src="https://github.com/Yaseen090/ConnectifyApp/blob/main/ConnectifyApp2.PNG" width="210" height="400">></a>
+<a><img src="https://github.com/Yaseen090/ConnectifyApp/blob/main/ConnectifyApp3.PNG" width="210" height="400">></a>
+<a><img src="https://github.com/Yaseen090/ConnectifyApp/blob/main/ConnectifyApp4.PNG" width="210" height="400">></a>
+<a><img src="https://github.com/Yaseen090/ConnectifyApp/blob/main/ConnectifyApp5.PNG" width="210" height="400">></a>
+<a><img src="https://github.com/Yaseen090/ConnectifyApp/blob/main/ConnectifyApp6.PNG" width="210" height="400">></a>
+<a><img src="https://github.com/Yaseen090/ConnectifyApp/blob/main/ConnectifyApp7.PNG" width="210" height="400">></a>
 
 Thanks
